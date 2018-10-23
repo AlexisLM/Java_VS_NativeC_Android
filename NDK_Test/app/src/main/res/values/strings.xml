@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">NDK_Test</string>
+  <string name="str_bb_sort_c">Run Bubble Sort (C)</string>
+  <string name="str_bb_sort_java">Run Bubble Sort (Java)</string>
+  <string name="str_mry_alloc_c">Run Memory Allocation (C)</string>
+  <string name="str_mry_alloc_java">Run Memory Allocation (Java)</string>
+</resources>
